@@ -1,0 +1,494 @@
+{
+  "projects": [
+    {
+      "name": "Flits",
+      "repositoryPath": "litsnode/flits-core",
+      "latestRelease": "2.0.1"
+    },
+    {
+      "name": "Klimatas (KTS)",
+      "repositoryPath": "klimatas/klimatas-core",
+      "latestRelease": "v1.3.4.3_tax"
+    },
+    {
+      "name": "Stakecube (SCC)",
+      "repositoryPath": "stakecube/stakecube",
+      "latestRelease": "v2.1.0"
+    },
+    {
+      "name": "Know Your Developer (KYD)",
+      "repositoryPath": "kydcoin/KYD3",
+      "latestRelease": "3.3.1"
+    },
+    {
+      "name": "APR Coin (APR)",
+      "repositoryPath": "APRCoin/zenith-repository",
+      "latestRelease": "V3.1.0"
+    },
+    {
+      "name": "Netbox (NBX)",
+      "repositoryPath": "NetboxGlobal/Netbox.Wallet",
+      "latestRelease": "v3.5.0"
+    },
+    {
+      "name": "Bitcoin (BTC)",
+      "repositoryPath": "bitcoin/bitcoin",
+      "latestRelease": "v0.21.1"
+    },
+    {
+      "name": "Litecoin (LTC)",
+      "repositoryPath": "litecoin-project/litecoin",
+      "latestRelease": "v0.18.1"
+    },
+    {
+      "name": "Crypto Sports (CSPN)",
+      "repositoryPath": "c-sports/cspn",
+      "latestRelease": "v2.0.3"
+    },
+    {
+      "name": "Birake (BIR)",
+      "repositoryPath": "birake/birakecoin",
+      "latestRelease": "v3.0.0"
+    },
+    {
+      "name": "Platinum (PLAT)",
+      "repositoryPath": "dashplatinum-org/dashplatinum",
+      "latestRelease": "V2.1.1.1"
+    },
+    {
+      "name": "Fline (FLN)",
+      "repositoryPath": "flinecoin/coin",
+      "latestRelease": "v1.0.4"
+    },
+    {
+      "name": "e-Sport Betting (ESBC)",
+      "repositoryPath": "BlockchainFor/ESBC2",
+      "latestRelease": "2.3.0.0"
+    },
+    {
+      "name": "Zer-Dex (ZDX)",
+      "repositoryPath": "zer-dex-coin/zerdex-core",
+      "latestRelease": "1.3.0.0"
+    },
+    {
+      "name": "win.win (TWINS)",
+      "repositoryPath": "NewCapital/TWINS-Core",
+      "latestRelease": "twins_v3.3.8.4"
+    },
+    {
+      "name": "Quotation (QUOT)",
+      "repositoryPath": "QuotationCoin/QUOT-Coin",
+      "latestRelease": "v.1.2-rev2"
+    },
+    {
+      "name": "Dash Diamond (DASHD)",
+      "repositoryPath": "Dash-Diamond/DASHD",
+      "latestRelease": "v2.0.0.0"
+    },
+    {
+      "name": "Market Arbitrage Coin (MARC)",
+      "repositoryPath": "MarketArbitrageCoin/MARCcore",
+      "latestRelease": "1.6.0.1"
+    },
+    {
+      "name": "Streamit (STREAM)",
+      "repositoryPath": "StreamitCoin/StreamitCoin",
+      "latestRelease": "v1.0.1.0"
+    },
+    {
+      "name": "Find Your Developer (FYD)",
+      "repositoryPath": "Fydcoin/FYDCoin",
+      "latestRelease": "V2.0.0"
+    },
+    {
+      "name": "FIX (FIX)",
+      "repositoryPath": "NewCapital/FIX-Core",
+      "latestRelease": "fix_v3.3.8.3"
+    },
+    {
+      "name": "Catocoin (CATO)",
+      "repositoryPath": "CatoCoin/CatoCoin",
+      "latestRelease": "v3.0"
+    },
+    {
+      "name": "RESQ (RESQ)",
+      "repositoryPath": "RESQ-Chain/RESQ",
+      "latestRelease": "v3.1.2"
+    },
+    {
+      "name": "Suvereno (SOVE)",
+      "repositoryPath": "decenomy/SUV",
+      "latestRelease": "v2.0.1.0"
+    },
+    {
+      "name": "Bare (BARE)",
+      "repositoryPath": "BareCrypto/BARE-coin",
+      "latestRelease": "v2.0.2.0"
+    },
+    {
+      "name": "PIVX (PIVX)",
+      "repositoryPath": "PIVX-Project/PIVX",
+      "latestRelease": "v5.2.0.1"
+    },
+    {
+      "name": "StakingLab (LABX)",
+      "repositoryPath": "StakingLab/stakinglab-coin",
+      "latestRelease": "v1.0.5"
+    },
+    {
+      "name": "ColossusXT (COLX)",
+      "repositoryPath": "ColossusCoinXT/ColossusCoinXT",
+      "latestRelease": "v1.2.4"
+    },
+    {
+      "name": "Crypto Trading Solutions (CTSC)",
+      "repositoryPath": "ctscoin/ctsc-core",
+      "latestRelease": "v1.1.2"
+    },
+    {
+      "name": "Cryptocurrency (CCY)",
+      "repositoryPath": "CCYofficial/CCY",
+      "latestRelease": "1.3.7.0"
+    },
+    {
+      "name": "Block Logic (BLTG)",
+      "repositoryPath": "Block-Logic-Technology-Group/bltg",
+      "latestRelease": "v3.1.1"
+    },
+    {
+      "name": "GenesisX (XGS)",
+      "repositoryPath": "genesis-x/genesis-x",
+      "latestRelease": "v1.5.0"
+    },
+    {
+      "name": "Firo (XZC)",
+      "repositoryPath": "firoorg/firo",
+      "latestRelease": "v0.14.7.0"
+    },
+    {
+      "name": "Dynamic (DYN)",
+      "repositoryPath": "duality-solutions/Dynamic",
+      "latestRelease": "v2.4.4.1"
+    },
+    {
+      "name": "Transcendence (TELOS)",
+      "repositoryPath": "phoenixkonsole/transcendence",
+      "latestRelease": "3.0.7"
+    },
+    {
+      "name": "Wagerr (WGR)",
+      "repositoryPath": "wagerr/wagerr",
+      "latestRelease": "v4.0.0"
+    },
+    {
+      "name": "Altbet (ABET)",
+      "repositoryPath": "altbet/abet",
+      "latestRelease": "v3.4.1.0+"
+    },
+    {
+      "name": "Peony (PNY)",
+      "repositoryPath": "PeonyTeam/peony",
+      "latestRelease": "v4.0.0.1"
+    },
+    {
+      "name": "Beacon (BECN)",
+      "repositoryPath": "beaconcrypto/beacon",
+      "latestRelease": "v4.0.0.1"
+    },
+    {
+      "name": "Phore (PHR)",
+      "repositoryPath": "phoreproject/Phore",
+      "latestRelease": "v1.7.0"
+    },
+    {
+      "name": "Masterwin (MW)",
+      "repositoryPath": "Master-Win/MasterWin",
+      "latestRelease": "v3.1"
+    },
+    {
+      "name": "SCRIV Network (SCRIV)",
+      "repositoryPath": "ScrivNetwork/scriv",
+      "latestRelease": "1.1.0"
+    },
+    {
+      "name": "EazyPayZa (EZPAY)",
+      "repositoryPath": "EazyPayZa/EZPAY",
+      "latestRelease": "v3.0.1"
+    },
+    {
+      "name": "French Digital Reserve (FDR)",
+      "repositoryPath": "fdreserve/fdr-blockchain",
+      "latestRelease": "V2.3.0"
+    },
+    {
+      "name": "Eska (ESK)",
+      "repositoryPath": "decenomy/ESKA",
+      "latestRelease": "v2.0.0.0"
+    },
+    {
+      "name": "Rapids (RPD)",
+      "repositoryPath": "RapidsOfficial/Rapids",
+      "latestRelease": "4.0.5"
+    },
+    {
+      "name": "DogeCash (DOGEC)",
+      "repositoryPath": "dogecash/dogecash",
+      "latestRelease": "v5.2.4"
+    },
+    {
+      "name": "Sapphire (SAPP)",
+      "repositoryPath": "sappcoin-com/SAPP",
+      "latestRelease": "v1.4.1.0"
+    },
+    {
+      "name": "Bitcoin Token (BTCT)",
+      "repositoryPath": "bitcointokenbtct/Bitcoin-Token-Core",
+      "latestRelease": "v2.0"
+    },
+    {
+      "name": "Encocoinplus (EPG)",
+      "repositoryPath": "Encocoin/encocoinplus",
+      "latestRelease": "3.0.5.1"
+    },
+    {
+      "name": "Aezora (AZR)",
+      "repositoryPath": "AzzureCoin/Azzure",
+      "latestRelease": "v1.0.0.6"
+    },
+    {
+      "name": "Vice Network (VN)",
+      "repositoryPath": "ViceNetworkOfficial/ViceCore",
+      "latestRelease": "1.0.0.0"
+    },
+    {
+      "name": "Social Send (SEND)",
+      "repositoryPath": "SocialSend/SocialSend",
+      "latestRelease": "v1.2.1.5"
+    },
+    {
+      "name": "Eros (ERS)",
+      "repositoryPath": "ErosCore/ErosCore",
+      "latestRelease": "v1.2.0"
+    },
+    {
+      "name": "IQ.Cash (IQ)",
+      "repositoryPath": "IQ-Cash/iqcash",
+      "latestRelease": "v0.8.4.2"
+    },
+    {
+      "name": "News24 (NEWS)",
+      "repositoryPath": "News24coin/news24coin",
+      "latestRelease": "2.0"
+    },
+    {
+      "name": "Bitcoin2 (BTC2)",
+      "repositoryPath": "BITC2/bitcoin2",
+      "latestRelease": "2.3.1b"
+    },
+    {
+      "name": "Bitwin24 (BWI)",
+      "repositoryPath": "BitWin24/bitwin24",
+      "latestRelease": "v0.0.12"
+    },
+    {
+      "name": "Raven Dark (XRD)",
+      "repositoryPath": "raven-dark/raven-dark",
+      "latestRelease": "0.4.3"
+    },
+    {
+      "name": "Kalkulus (KLKS)",
+      "repositoryPath": "kalkulusteam/klks",
+      "latestRelease": "v2.8.0"
+    },
+    {
+      "name": "Dogecoin (DOGE)",
+      "repositoryPath": "dogecoin/dogecoin",
+      "latestRelease": "v1.14.3"
+    },
+    {
+      "name": "Index Chain (IDX)",
+      "repositoryPath": "IndexChain/Index",
+      "latestRelease": "v0.13.10.7"
+    },
+    {
+      "name": "ReeCore (REEX)",
+      "repositoryPath": "reecore-coin/Reex",
+      "latestRelease": "1.4.2.3"
+    },
+    {
+      "name": "Divi Project (DIVI)",
+      "repositoryPath": "DiviProject/Divi",
+      "latestRelease": "v2.0.1"
+    },
+    {
+      "name": "Simple Software Solutions (SSS)",
+      "repositoryPath": "Simple-Software-Solutions/SSS-Core",
+      "latestRelease": "sssolutions_v2.1.1"
+    },
+    {
+      "name": "Zenzo (ZNZ)",
+      "repositoryPath": "Zenzo-Ecosystem/ZENZO-Core",
+      "latestRelease": "v2.1.0"
+    },
+    {
+      "name": "ALQO (XLQ)",
+      "repositoryPath": "eons-finance/ALQO",
+      "latestRelease": "v6.5.0.0-7201e3593"
+    },
+    {
+      "name": "PowerBalt (PWRB)",
+      "repositoryPath": "PWRB-Project/PWRB",
+      "latestRelease": "v1.0.8"
+    },
+    {
+      "name": "Deviant (DEV)",
+      "repositoryPath": "Deviantcoin/Source",
+      "latestRelease": "4.0.0.0"
+    },
+    {
+      "name": "Kava (KAVA)",
+      "repositoryPath": "Kava-Labs/kava",
+      "latestRelease": "v0.14.2"
+    },
+    {
+      "name": "DigiByte (DGB)",
+      "repositoryPath": "DigiByte-Core/digibyte",
+      "latestRelease": "v7.17.3"
+    },
+    {
+      "name": "AXEL (AXEL)",
+      "repositoryPath": "axelnetwork/AXEL",
+      "latestRelease": "v3.0.1"
+    },
+    {
+      "name": "eXperience Points (XP)",
+      "repositoryPath": "eXperiencePoints/XPCoin",
+      "latestRelease": "1.1.0.2"
+    },
+    {
+      "name": "Jackpot (777)",
+      "repositoryPath": "777-project/777",
+      "latestRelease": "v3.0.0.0"
+    },
+    {
+      "name": "Ultragate (ULG)",
+      "repositoryPath": "ultranatum/ultragate",
+      "latestRelease": "v1.1.0.0"
+    },
+    {
+      "name": "Kyanite (KYAN)",
+      "repositoryPath": "kyancoin/KYAN",
+      "latestRelease": "v0.15.0.0.k"
+    },
+    {
+      "name": "DocumentChain (DMS)",
+      "repositoryPath": "Krekeler/documentchain",
+      "latestRelease": "v0.13.3.1"
+    },
+    {
+      "name": "Midas (MIDAS)",
+      "repositoryPath": "mikeifomin/midas_coin",
+      "latestRelease": "v1.3.0"
+    },
+    {
+      "name": "Dash (DASH)",
+      "repositoryPath": "dashpay/dash",
+      "latestRelease": "v0.17.0.3"
+    },
+    {
+      "name": "NestEgg (EGG)",
+      "repositoryPath": "SirElven8/NestEGG",
+      "latestRelease": "v1.4.1.3"
+    },
+    {
+      "name": "UltraClear (UCR)",
+      "repositoryPath": "ucrcoin/UCR",
+      "latestRelease": "v3.0.0.1"
+    },
+    {
+      "name": "Modern Investment Coin (MODIC)",
+      "repositoryPath": "ModernInvestmentCoin/MODIC-Core",
+      "latestRelease": "v1.5.4.9"
+    },
+    {
+      "name": "Securus (XSCR)",
+      "repositoryPath": "JOXW/securuscoin",
+      "latestRelease": "v2.0.1.6"
+    },
+    {
+      "name": "Trittium (TRTT)",
+      "repositoryPath": "Trittium/trittium",
+      "latestRelease": "v4.0.1.0"
+    },
+    {
+      "name": "Stakenet (XSN)",
+      "repositoryPath": "X9Developers/XSN",
+      "latestRelease": "v1.0.28"
+    },
+    {
+      "name": "Scrypta (LYRA)",
+      "repositoryPath": "scryptachain/scrypta",
+      "latestRelease": "2.0.1"
+    },
+    {
+      "name": "KnoxFS (KFX)",
+      "repositoryPath": "KnoxFS/KFX-wallet-V2",
+      "latestRelease": "v1.0.0"
+    },
+    {
+      "name": "CryptoFlow (CFL)",
+      "repositoryPath": "CryptoFlowCoin/CryptoFlowCoin",
+      "latestRelease": "v2.0.0.1"
+    },
+    {
+      "name": "One World (OWO)",
+      "repositoryPath": "OneWorldCoin/OneWorld",
+      "latestRelease": "v3.0.0"
+    },
+    {
+      "name": "Simple Masternode Coin (SMNC)",
+      "repositoryPath": "smnccoin/smnc",
+      "latestRelease": "v2000"
+    },
+    {
+      "name": "NodeStats (NS)",
+      "repositoryPath": "NODESTATS-NS/nodestats",
+      "latestRelease": "v1.1"
+    },
+    {
+      "name": "Remita (REMIT)",
+      "repositoryPath": "Remitacoin/remit",
+      "latestRelease": "1.0.0"
+    },
+    {
+      "name": "Gastrocoin (GTC)",
+      "repositoryPath": "TeamGastroCoin/gastrocoin",
+      "latestRelease": "v1.0"
+    },
+    {
+      "name": "Monkey (MONK)",
+      "repositoryPath": "decenomy/MONK",
+      "latestRelease": "v3.0.1"
+    },
+    {
+      "name": "Masternodes.me (MNME)",
+      "repositoryPath": "MasterNodesME/mnme",
+      "latestRelease": "v1.0"
+    },
+    {
+      "name": "Dequant (DEQ)",
+      "repositoryPath": "dequant-project/dequant",
+      "latestRelease": "v3.0"
+    },
+    {
+      "name": "CryptoSaga (SAGA)",
+      "repositoryPath": "cryptosagacoin/SAGA",
+      "latestRelease": "v4.0.1.1"
+    },
+    {
+      "name": "PFZER (PFZER)",
+      "repositoryPath": "PFZER777/pfzercoin",
+      "latestRelease": "v1.0"
+    }
+  ]
+}
