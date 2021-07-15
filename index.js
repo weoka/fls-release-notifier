@@ -1,4 +1,4 @@
-const projectsFile = require("./projects.json");
+const projectsFile = require("./projects/projects.json");
 const GithubClient = new (require("./GithubClient"))();
 const SlackClient = new (require("./SlackClient"))();
 const JsonHandler = new (require("./JsonHandler"))();
@@ -21,7 +21,7 @@ const updateWallets = async () => {
           version: release.tag,
         };
 
-        await SlackClient.pushRelease(SlackData);
+        //await SlackClient.pushRelease(SlackData);
       }
 
       //save release if non existent
@@ -36,9 +36,10 @@ const updateWallets = async () => {
         JsonHandler.saveJson({ projects: projects });
       }
     } catch (e) {
-      SlackClient.sendMessage(
-        `There was an error trying to fetch the last release from ${project.name}.`
-      );
+      throw e;
+      // SlackClient.sendMessage(
+      //   `There was an error trying to fetch the last release from ${project.name}.`
+      // );
     }
   }
 };

@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Flits",
-      "repositoryPath": "litsnode/flits-core",
+      "repositoryPath": "flitsnode/flits-core",
       "latestRelease": "2.0.1"
     },
     {

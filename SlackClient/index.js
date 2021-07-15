@@ -4,7 +4,7 @@ const config = require("../config.json");
 module.exports = class SlackClient {
   async send(data) {
     try {
-      const hook_url = config.slack_hook;
+      const hook_url = config.slackHook;
       const request = await axios.post(hook_url, data);
       return request.data;
     } catch (e) {
