@@ -21,7 +21,7 @@ const updateWallets = async () => {
           version: release.tag,
         };
 
-        //await SlackClient.pushRelease(SlackData);
+        await SlackClient.pushRelease(SlackData);
       }
 
       //save release if non existent
@@ -36,10 +36,9 @@ const updateWallets = async () => {
         JsonHandler.saveJson({ projects: projects });
       }
     } catch (e) {
-      throw e;
-      // SlackClient.sendMessage(
-      //   `There was an error trying to fetch the last release from ${project.name}.`
-      // );
+      SlackClient.sendMessage(
+        `There was an error trying to fetch the last release from ${project.name}.`
+      );
     }
   }
 };
