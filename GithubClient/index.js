@@ -22,7 +22,7 @@ module.exports = class GithubClient {
     );
     return {
       tag: repositoryInfo["tag_name"],
-      link: repositoryInfo["url"],
+      link: repositoryInfo["html_url"],
       name: repositoryInfo["name"],
     };
   }
