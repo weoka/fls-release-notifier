@@ -13,7 +13,7 @@ const updateWallets = async () => {
       );
 
       //notify if release is different that latest
-      if (release["tag"] != project.latestRelease && !release["tag"].length) {
+      if (release["tag"] != project.latestRelease && release["tag"].length) {
         const SlackData = {
           coin: project.name,
           link: release.link,
@@ -22,12 +22,6 @@ const updateWallets = async () => {
         };
 
         await SlackClient.pushRelease(SlackData);
-      }
-
-      //save release if non existent
-      if (!release["tag"].lenght) {
-        project.latestRelease = release["tag"];
-        JsonHandler.saveJson({ projects: projects });
       }
 
       //update release
